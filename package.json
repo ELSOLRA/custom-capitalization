@@ -1,0 +1,14 @@
+{
+  "name": "custom-capitalization",
+  "version": "1.0.0",
+  "description": "A package for capitalizing words with customizable exclusion lists.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "keywords": ["capitalize", "words", "exclusion"],
+  "author": "Paul K",
+  "license": "ISC"
+}
