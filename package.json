@@ -1,9 +1,13 @@
 {
-  "name": "custom-capitalization",
+  "name": "@elsolra/custom-capitalization",
   "version": "1.0.0",
   "description": "A package for capitalizing words with customizable exclusion lists.",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ELSOLRA/custom-capitalization.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "index.js"
