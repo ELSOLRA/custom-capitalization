@@ -1,18 +1,29 @@
 {
   "name": "@elsolra/custom-capitalization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package for capitalizing words with customizable exclusion lists.",
-  "main": "index.js",
+  "main": "src/index.js",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ELSOLRA/custom-capitalization.git"
+    "url": "git+https://github.com/ELSOLRA/custom-capitalization.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "index.js"
+    "start": "src/index.js"
   },
-  "keywords": ["capitalize", "words", "exclusion"],
+  "keywords": [
+    "capitalize",
+    "words",
+    "exclusion"
+  ],
   "author": "Paul K",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ELSOLRA/custom-capitalization/issues"
+  },
+  "homepage": "https://github.com/ELSOLRA/custom-capitalization#readme",
+  "directories": {
+    "test": "test"
+  }
 }
