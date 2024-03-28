@@ -1,6 +1,6 @@
 {
-  "name": "@elsolra/custom-capitalization",
-  "version": "1.0.1",
+  "name": "custom-capitalization",
+  "version": "1.0.2",
   "description": "A package for capitalizing words with customizable exclusion lists.",
   "main": "src/index.js",
   "type": "module",
@@ -15,7 +15,13 @@
   "keywords": [
     "capitalize",
     "words",
-    "exclusion"
+    "exclusion",
+    "uppercase",
+    "mixedcase",
+    "allwords",
+    "sentencecase",
+    "capitalization",
+    "custom"
   ],
   "author": "Paul K",
   "license": "ISC",
