@@ -15,6 +15,9 @@ Custom-Capitalization is a JavaScript library that provides functions for capita
 
 ## Changelog
 
+### Version 1.1.0 (April 1, 2024)
+- Corrected version number from 1.0.2 to 1.1.0.
+
 ### Version 1.0.2 (March 28, 2024)
 
 - Updated import syntax for easier usage:
@@ -23,7 +26,7 @@ Custom-Capitalization is a JavaScript library that provides functions for capita
 
 ### Version 1.0.1 (March 27, 2024)
 
-- Corrected the path to the main file in package.json
+- Corrected the path to the main file in package.json.
 
 ### Version 1.0.0 (March 26, 2024)
 
@@ -83,20 +86,7 @@ The `defaultExcludedWords` variable contains a set of words that are excluded fr
 
 ### Current Default Excluded Words
 
-- a
-- an
-- the
-- and
-- but
-- or
-- for
-- nor
-- on
-- at
-- to
-- by
-- in
-- of
+- a, an, the, and, but, or, for, nor, on, at, to, by, in, of
 
 These words can be removed from the default excluded list using the `delDefault` function provided by the library.
 
