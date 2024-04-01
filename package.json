@@ -1,6 +1,6 @@
 {
   "name": "custom-capitalization",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A package for capitalizing words with customizable exclusion lists.",
   "main": "src/index.js",
   "type": "module",
